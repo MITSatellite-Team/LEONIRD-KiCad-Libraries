@@ -187,7 +187,7 @@
 		(uuid "a6bbbcb1-9a7f-403f-a8f5-05f442331f8d")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shari/OneDrive/Desktop/21700_battery_holder_assemV2.STEP"
+	(model "${KIPRJMOD}/KiCad-Libraries/3D Models/21700_battery_holder_assemV2.STEP"
 		(offset
 			(xyz 42.5 -44 12)
 		)
